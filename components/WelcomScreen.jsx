@@ -87,7 +87,7 @@ const WelcomeScreen = ({ navigation }) => {
           navigation.navigate("Login");
         }}
       >
-        Newsletter
+        Login
       </Button>
     </View>
   );
